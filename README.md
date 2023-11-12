@@ -6,4 +6,5 @@ You are required to write a program to calculate the total salary of an employee
 EmployeeName should be your registration Number
 
 **Sample Output**
+
 ![image](https://github.com/EvansMungai/payrollGui/assets/69681950/63d9f872-4cbd-4c9c-bcdf-0e5a41b3708e)
